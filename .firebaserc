@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "authangular-b6a2a": {
+      "hosting": {
+        "Auth": [
+          "authangular-b6a2a"
+        ]
+      }
+    }
+  }
+}
